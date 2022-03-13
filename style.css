@@ -793,6 +793,9 @@ body{
     font-size: 25px;
   }
 
+  .menu-btn {
+    font-size: small;
+  }
 
   .tech-icons {
     display: flex;
@@ -833,4 +836,6 @@ body{
   }
 
 }
+
+
 
